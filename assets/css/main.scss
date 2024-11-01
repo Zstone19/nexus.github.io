@@ -7,12 +7,7 @@ search: false
 
 // Color for navbar links
 $masthead-link-color: #13294B;
-$masthead-link-color-hover: #1D58A7;
-
-// Color for header
-h1 {
-    color: #1D58A7;
-}
+$masthead-link-color-hover: #7aa6cb;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
