@@ -4,4 +4,4 @@ title: Science
 permalink: /science/
 ---
 
-Here are the people involved with the NEXUS Collaboration.
+Here we provide access links to NEXUS data. The latest public data release is EDR. 
