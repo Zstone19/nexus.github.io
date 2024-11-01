@@ -5,3 +5,6 @@
 layout: home
 title: NEXUS
 ---
+
+
+Hello, this is the homepage for the NEXUS Collaboration. Come back for any importnat updates!
