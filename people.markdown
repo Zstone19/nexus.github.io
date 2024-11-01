@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Science
-permalink: /science/
+title: People
+permalink: /people/
 ---
 
 Some science results from the NEXUS Collaboration.
