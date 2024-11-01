@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Data
-permalink: /data/
+title: Science
+permalink: /science/
 ---
 
 Here are the people involved with the NEXUS Collaboration.
