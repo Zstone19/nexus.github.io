@@ -4,4 +4,4 @@ title: People
 permalink: /people/
 ---
 
-Some science results from the NEXUS Collaboration.
+NEXUS is intended to be a community project. The core team is the original JWST proposal team. 
