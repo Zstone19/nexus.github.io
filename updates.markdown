@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Updates
+title: News
 permalink: /updates/
 ---
 
