@@ -5,7 +5,13 @@ search: false
 
 @charset "utf-8";
 
+// Color for navbar links
 $masthead-link-color: #13294B;
+
+// Color for header
+h1 {
+    color: #1D58A7;
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
